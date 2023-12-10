@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///home/ramanuj/Downloads/Design.CO.png" alt="PyDataScienceEssentials Logo" width="200" />
+  <img src="file:/home/ramanuj/Downloads/Design.CO.png" alt="PyDataScienceEssentials Logo" width="200" />
  
 </p>
 
