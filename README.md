@@ -30,7 +30,7 @@ This repository is your gateway to mastering Python for Data Science. From funda
    ```bash
    pip install -r requirements.txt
 
-## Contribute
+##  Contribute
 1. If you find issues or have improvements, we encourage you to contribute!
 2. Fork the repository, make changes, and open a pull request.
 3. Commit and push your changes to your fork.
