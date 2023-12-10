@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="your-repo-logo.png" alt="PyDataScienceEssentials Logo" width="200" />
+<!--   <img src="your-repo-logo.png" alt="PyDataScienceEssentials Logo" width="200" /> -->
+  <p align="center">
+   ______     ______     __   __     ______     ______     __   __     ______    
+  /\  ___\   /\  __ \   /\ \ / /    /\  == \   /\  ___\   /\ \ / /    /\  __ \   
+ \ \___  \  \ \ \/\ \  \ \ \'/     \ \  __<   \ \  __\   \ \ \'/     \ \  __ \  
+  \/\_____\  \ \_____\  \ \__|      \ \_\ \_\  \ \_____\  \ \__|      \ \_\ \_\ 
+   \/_____/   \/_____/   \/_/        \/_/ /_/   \/_____/   \/_/        \/_/\/_/ 
+</p>
+
 </p>
 
 # PyDataScienceEssentials
