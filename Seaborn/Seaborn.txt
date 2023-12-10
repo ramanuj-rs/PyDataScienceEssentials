@@ -1,0 +1,3 @@
+# Seaborn Elegance
+
+Welcome to Seaborn Elegance! Elevate your data visualizations with the Seaborn library. Whether you're exploring relationships, distributions, or categorical data, Seaborn adds a touch of elegance to your plots. Let's make your visualizations shine!
