@@ -1,1 +1,4 @@
+# Python Basics
+
+Welcome to the Python Basics section! This folder covers fundamental concepts and syntax in Python. Whether you're new to programming or looking for a refresher, dive in and build a strong foundation for your Python journey.
 
