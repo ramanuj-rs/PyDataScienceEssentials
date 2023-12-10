@@ -1,5 +1,3 @@
-![Design CO](https://github.com/ramanuj-rs/PyDataScienceEssentials/assets/125216283/c1498f9a-1753-46cb-8f2e-087d1afb754d)
-
 # PyDataScienceEssentials
 
 Welcome to PyDataScienceEssentials, your comprehensive guide to mastering Python for Data Science!
