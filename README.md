@@ -1,7 +1,6 @@
 <p align="center">
-  <img src=![Design CO](https://github.com/ramanuj-rs/PyDataScienceEssentials/assets/125216283/c1498f9a-1753-46cb-8f2e-087d1afb754d)
- alt="PyDataScienceEssentials Logo" width="200" />
- 
+<img src=![Design CO](https://github.com/ramanuj-rs/PyDataScienceEssentials/assets/125216283/c1498f9a-1753-46cb-8f2e-087d1afb754d) alt="PyDataScienceEssentials Logo" width="200" />
+
 </p>
 
 ![Design CO](https://github.com/ramanuj-rs/PyDataScienceEssentials/assets/125216283/c1498f9a-1753-46cb-8f2e-087d1afb754d)
