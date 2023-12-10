@@ -33,11 +33,8 @@ source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 
 Install the necessary Python packages specified in the requirements.txt file. This ensures you have all the tools needed for the code in the notebooks.
 
-5. Explore the Notebooks
-Execute the code cells in the notebooks to see the results. The notebooks are designed for hands-on learning, so don't hesitate to modify the code and observe the changes.
-
-6. Contribute
-**If you find issues or have improvements, we encourage you to contribute!
-**Fork the repository, make changes, and open a pull request.
-**Commit and push your changes to your fork.
-**Open a pull request to merge your changes into the main repository.
+4. Contribute
+1. **If you find issues or have improvements, we encourage you to contribute!
+2. **Fork the repository, make changes, and open a pull request.
+3. **Commit and push your changes to your fork.
+4. **Open a pull request to merge your changes into the main repository.
