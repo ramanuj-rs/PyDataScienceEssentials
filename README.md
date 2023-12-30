@@ -1,6 +1,6 @@
 # PyDataScienceEssentials
 
-Welcome to PyDataScienceEssentials, your comprehensive guide to mastering Python for Data Science!
+Welcome to Python-For-Data-Science, your comprehensive guide to mastering Python for Data Science!
 
 ## 🚀 Description
 
@@ -19,7 +19,7 @@ This repository is your gateway to mastering Python for Data Science. From funda
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/PyDataScienceEssentials.git
+   git clone https://github.com/your-username/Python-For-Data-Science.git
 
 2. Set Up Your Environment
 
