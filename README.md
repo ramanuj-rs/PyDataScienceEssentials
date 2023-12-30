@@ -1,4 +1,4 @@
-# PyDataScienceEssentials
+# Python-For-Data-Science
 
 Welcome to Python-For-Data-Science, your comprehensive guide to mastering Python for Data Science!
 
